@@ -1,1 +1,33 @@
-
+{"name":"CoopHive",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"CoopHive is building a multi-chain, multi-currency, multi-token standard generic marketplace. We are providing the base layer for autonomous agents to execute arbitrary compute and exchange real-world assets, scientists to write and read verifiable computational histories with provenance, and mechanism designers to implement custom reward logic for multi-agent systems. ",
+"whitePaperLink":"https://docs.co-ophive.network/coophive/whitepaper",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://youtu.be/dYg3JEMlgvQ",
+       "source": "youtube",
+       "link": "https://www.youtube.com/watch?v=dYg3JEMlgvQ"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": " https://imgur.com/a/GhgNGFA﻿",        
+       "source": "image",
+       "link": " https://docs.co-ophive.network/research/game-theoretic-verifiable-computing/writings﻿"  },
+ ],
+"deleted":false,
+"primaryColor":"#0ec1c1",
+"twitterHandle":"CoopHive",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://imgur.com/a/GhgNGFA",
+"squareLogo":"https://imgur.com/a/rCvcX4s"
+"telegramLink":"",
+"discordLink":"",
+"website":"https://www.coophive.network/",
+"tokenDescription":"",
+"tokenTradeLink":"",
+"tags":["Focused Research", "Data Storage", "Blockchain protocols", "Decentralized Computing", "Ecosystems"]
+  
+}
